@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcss.com/vue/2.6.10/vue.min.js"></script>
+    <link href="https://cdn.bootcss.com/antd/4.0.0-alpha.6/antd.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ant-design-vue@1.4.10/dist/antd.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/ant-design-vue@1.4.10/dist/antd.min.js"></script>
+
+</head>
+<body>
+<Header>header</Header>
+<Layout>
+    <Sider>left sidebar</Sider>
+    <Content>main content
+
+        <div id="app">
+
+            <a-row>
+                <a-col :span="12">
+                    <a-button type="primary">Primary</a-button>
+                </a-col>
+                <a-col :span="12">
+                    <a-button type="primary">Primary</a-button>
+                </a-col>
+
+            </a-row>
+        </div>
+    </Content>
+    <Sider>right sidebar</Sider>
+</Layout>
+<Footer>footer</Footer>
+
+
+
+</body>
+
+<script>
+    new Vue({
+        el: "#app",
+        data: {
+            msg: 'aa'
+        }
+    })
+
+</script>
+</html>
