@@ -1,0 +1,1120 @@
+2020-04-01 14:34:36,402 INFO Starting Nacos v1.2.0 on aadb041c8c03 with PID 21 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2020-04-01 14:34:36,406 INFO The following profiles are active: standalone
+
+2020-04-01 14:34:40,618 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$dca9597b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:34:40,900 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:34:40,906 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@5965d37' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:34:40,915 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$17dfc2d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:34:40,925 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:34:42,265 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-04-01 14:34:42,334 INFO Starting service [Tomcat]
+
+2020-04-01 14:34:42,334 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-04-01 14:34:42,356 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+
+2020-04-01 14:34:42,561 INFO Initializing Spring embedded WebApplicationContext
+
+2020-04-01 14:34:42,562 INFO Root WebApplicationContext: initialization completed in 6066 ms
+
+2020-04-01 14:34:47,335 INFO Reflections took 82 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2020-04-01 14:34:47,415 INFO Reflections took 5 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2020-04-01 14:34:47,433 INFO Reflections took 6 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2020-04-01 14:34:48,888 INFO Use Mysql as the driver
+
+2020-04-01 14:34:49,719 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-04-01 14:34:50,032 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-04-01 14:34:50,690 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-04-01 14:34:50,779 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2cab9998, org.springframework.security.web.context.SecurityContextPersistenceFilter@9d157ff, org.springframework.security.web.header.HeaderWriterFilter@64bc21ac, org.springframework.security.web.csrf.CsrfFilter@2f94c4db, org.springframework.security.web.authentication.logout.LogoutFilter@403132fc, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5df417a7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@61078690, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2f7a7219, org.springframework.security.web.session.SessionManagementFilter@5d25e6bb, org.springframework.security.web.access.ExceptionTranslationFilter@72ccd81a]
+
+2020-04-01 14:34:50,993 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2020-04-01 14:34:51,060 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-04-01 14:34:51,233 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-04-01 14:34:51,266 INFO Started Nacos in 20.549 seconds (JVM running for 22.918)
+
+2020-04-01 14:34:51,266 INFO Nacos logs files: /home/nacos/logs/
+
+2020-04-01 14:34:51,267 INFO Nacos conf files: /home/nacos/conf/
+
+2020-04-01 14:34:51,267 INFO Nacos data files: /home/nacos/data/
+
+2020-04-01 14:34:51,267 INFO Nacos started successfully in stand alone mode.
+
+2020-04-01 14:34:51,450 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-04-01 14:34:51,451 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-04-01 14:34:51,465 INFO Completed initialization in 13 ms
+
+2020-04-01 14:39:45,960 INFO Starting Nacos v1.2.0 on 5f95e5555a73 with PID 21 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2020-04-01 14:39:45,964 INFO The following profiles are active: standalone
+
+2020-04-01 14:39:49,607 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$364be3d9] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:39:49,746 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:39:49,750 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2de56eb2' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:39:49,755 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$5b20868b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:39:49,761 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 14:39:50,492 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-04-01 14:39:50,528 INFO Starting service [Tomcat]
+
+2020-04-01 14:39:50,529 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-04-01 14:39:50,545 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+
+2020-04-01 14:39:50,655 INFO Initializing Spring embedded WebApplicationContext
+
+2020-04-01 14:39:50,655 INFO Root WebApplicationContext: initialization completed in 4630 ms
+
+2020-04-01 14:39:55,542 INFO Reflections took 67 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2020-04-01 14:39:55,602 INFO Reflections took 5 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2020-04-01 14:39:55,618 INFO Reflections took 8 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2020-04-01 14:39:56,671 INFO Use Mysql as the driver
+
+2020-04-01 14:39:57,337 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-04-01 14:39:57,710 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-04-01 14:39:58,276 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-04-01 14:39:58,325 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3c9168dc, org.springframework.security.web.context.SecurityContextPersistenceFilter@664a9613, org.springframework.security.web.header.HeaderWriterFilter@361c294e, org.springframework.security.web.csrf.CsrfFilter@2f7a7219, org.springframework.security.web.authentication.logout.LogoutFilter@4985cbcb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@15a902e7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5af28b27, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@332a7fce, org.springframework.security.web.session.SessionManagementFilter@285d851a, org.springframework.security.web.access.ExceptionTranslationFilter@3a1d593e]
+
+2020-04-01 14:39:58,514 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2020-04-01 14:39:58,578 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-04-01 14:39:58,730 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-04-01 14:39:58,747 INFO Started Nacos in 15.626 seconds (JVM running for 17.69)
+
+2020-04-01 14:39:58,748 INFO Nacos logs files: /home/nacos/logs/
+
+2020-04-01 14:39:58,748 INFO Nacos conf files: /home/nacos/conf/
+
+2020-04-01 14:39:58,748 INFO Nacos data files: /home/nacos/data/
+
+2020-04-01 14:39:58,748 INFO Nacos started successfully in stand alone mode.
+
+2020-04-01 14:39:58,929 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-04-01 14:39:58,931 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-04-01 14:39:58,952 INFO Completed initialization in 21 ms
+
+2020-04-01 14:49:56,282 INFO [capacityManagement] start correct usage
+
+2020-04-01 14:49:56,369 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 14:49:56,652 WARN clearConfigHistory start
+
+2020-04-01 14:59:56,369 INFO [capacityManagement] start correct usage
+
+2020-04-01 14:59:56,372 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 14:59:56,703 WARN clearConfigHistory start
+
+2020-04-01 15:09:56,372 INFO [capacityManagement] start correct usage
+
+2020-04-01 15:09:56,373 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 15:09:56,705 WARN clearConfigHistory start
+
+2020-04-01 15:19:56,373 INFO [capacityManagement] start correct usage
+
+2020-04-01 15:19:56,376 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 15:19:56,706 WARN clearConfigHistory start
+
+2020-04-01 15:29:56,377 INFO [capacityManagement] start correct usage
+
+2020-04-01 15:29:56,377 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 15:29:56,706 WARN clearConfigHistory start
+
+2020-04-01 15:39:56,377 INFO [capacityManagement] start correct usage
+
+2020-04-01 15:39:56,378 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 15:39:56,707 WARN clearConfigHistory start
+
+2020-04-01 15:49:56,378 INFO [capacityManagement] start correct usage
+
+2020-04-01 15:49:56,380 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 15:49:56,709 WARN clearConfigHistory start
+
+2020-04-01 15:59:56,380 INFO [capacityManagement] start correct usage
+
+2020-04-01 15:59:56,382 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 15:59:56,710 WARN clearConfigHistory start
+
+2020-04-01 16:09:56,382 INFO [capacityManagement] start correct usage
+
+2020-04-01 16:09:56,383 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 16:09:56,711 WARN clearConfigHistory start
+
+2020-04-01 16:19:56,383 INFO [capacityManagement] start correct usage
+
+2020-04-01 16:19:56,384 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 16:19:56,712 WARN clearConfigHistory start
+
+2020-04-01 16:22:54,643 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP9cda3edebd6a2cb8ccf92c5a555e3c16
+
+2020-04-01 16:22:54,644 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP9cda3edebd6a2cb8ccf92c5a555e3c16
+
+2020-04-01 16:22:54,841 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP9cda3edebd6a2cb8ccf92c5a555e3c16
+
+2020-04-01 16:22:54,841 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP9cda3edebd6a2cb8ccf92c5a555e3c16
+
+2020-04-01 16:23:24,355 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP9cda3edebd6a2cb8ccf92c5a555e3c16
+
+2020-04-01 16:23:24,356 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP9cda3edebd6a2cb8ccf92c5a555e3c16
+
+2020-04-01 16:23:43,505 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:23:43,505 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:24:13,010 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:24:13,010 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:24:42,515 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:24:42,515 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:25:12,025 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:25:12,025 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:25:41,530 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:25:41,530 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:26:09,548 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:26:09,548 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:26:09,750 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:26:09,750 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:26:39,257 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:26:39,258 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:10,445 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:10,445 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:10,643 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:10,643 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:40,147 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:40,147 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa6532eb2426dbf1da937e1ebb3acb879
+
+2020-04-01 16:27:42,744 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:27:42,745 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:28:12,249 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:28:12,249 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:28:41,753 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:28:41,753 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:29:11,259 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:29:11,259 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:29:40,763 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:29:40,763 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:29:56,384 INFO [capacityManagement] start correct usage
+
+2020-04-01 16:29:56,385 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 16:29:56,713 WARN clearConfigHistory start
+
+2020-04-01 16:30:10,268 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:30:10,268 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:30:39,772 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:30:39,772 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:31:07,487 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:31:07,487 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:31:07,686 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:31:07,686 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:31:37,192 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:31:37,193 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:32:06,699 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:32:06,700 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:35:52,111 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:35:52,111 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:35:52,311 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:35:52,311 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:28,095 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:28,095 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:28,295 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:28,295 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:59,257 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:59,257 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:59,456 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:36:59,456 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:37:28,961 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:37:28,961 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1dbf63000122ddb847a88274510d2e27
+
+2020-04-01 16:37:56,777 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPaa248d7500b6daca336a76994889d334
+
+2020-04-01 16:37:56,777 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPaa248d7500b6daca336a76994889d334
+
+2020-04-01 16:38:26,282 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPaa248d7500b6daca336a76994889d334
+
+2020-04-01 16:38:26,282 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPaa248d7500b6daca336a76994889d334
+
+2020-04-01 16:38:28,659 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:38:28,659 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:38:58,164 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:38:58,164 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:27,667 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:27,667 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:49,217 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:49,218 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:49,417 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:49,417 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:39:56,385 INFO [capacityManagement] start correct usage
+
+2020-04-01 16:39:56,386 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 16:39:56,715 WARN clearConfigHistory start
+
+2020-04-01 16:40:18,926 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:40:18,926 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:40:48,432 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:40:48,432 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:41:17,430 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:41:17,430 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:41:17,629 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:41:17,629 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP7dda1ec7c6f6c4d891add16b6ccdedca
+
+2020-04-01 16:41:38,882 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:41:38,882 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:42:08,386 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:42:08,386 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:42:37,889 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:42:37,890 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:43:07,393 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:43:07,393 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:43:36,896 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:43:36,896 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:06,399 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:06,399 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:29,796 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:29,796 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:29,994 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:29,995 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPa42eb65c8d715643bf8f8c6e8859b86a
+
+2020-04-01 16:44:51,958 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP5299ca7cfe8ec9cd2b89bf293162c974
+
+2020-04-01 16:44:51,958 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP5299ca7cfe8ec9cd2b89bf293162c974
+
+2020-04-01 16:45:21,462 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP5299ca7cfe8ec9cd2b89bf293162c974
+
+2020-04-01 16:45:21,462 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP5299ca7cfe8ec9cd2b89bf293162c974
+
+2020-04-01 16:45:45,993 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP4ea86292c6d8807493a8525f5c6dfbdf
+
+2020-04-01 16:45:45,993 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP4ea86292c6d8807493a8525f5c6dfbdf
+
+2020-04-01 16:46:15,718 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1aea3f42a7e41ffa327b35b8c6c6f7e9
+
+2020-04-01 16:46:15,718 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1aea3f42a7e41ffa327b35b8c6c6f7e9
+
+2020-04-01 16:46:45,231 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1aea3f42a7e41ffa327b35b8c6c6f7e9
+
+2020-04-01 16:46:45,231 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1aea3f42a7e41ffa327b35b8c6c6f7e9
+
+2020-04-01 16:47:14,735 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1aea3f42a7e41ffa327b35b8c6c6f7e9
+
+2020-04-01 16:47:14,735 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP1aea3f42a7e41ffa327b35b8c6c6f7e9
+
+2020-04-01 16:47:27,022 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP233085227998136ecfbeaf2afb24a278
+
+2020-04-01 16:47:27,022 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP233085227998136ecfbeaf2afb24a278
+
+2020-04-01 16:47:56,525 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP233085227998136ecfbeaf2afb24a278
+
+2020-04-01 16:47:56,525 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP233085227998136ecfbeaf2afb24a278
+
+2020-04-01 16:48:26,028 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP233085227998136ecfbeaf2afb24a278
+
+2020-04-01 16:48:26,028 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP233085227998136ecfbeaf2afb24a278
+
+2020-04-01 16:48:44,410 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3a44d595330b0d39bbd1ec8698626e9b
+
+2020-04-01 16:48:44,410 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3a44d595330b0d39bbd1ec8698626e9b
+
+2020-04-01 16:49:13,914 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3a44d595330b0d39bbd1ec8698626e9b
+
+2020-04-01 16:49:13,914 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3a44d595330b0d39bbd1ec8698626e9b
+
+2020-04-01 16:49:17,483 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP84891b0a94388c925fb3489d2bc86b3c
+
+2020-04-01 16:49:17,483 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP84891b0a94388c925fb3489d2bc86b3c
+
+2020-04-01 16:49:44,529 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPd61c674177fbbd15ea66be61a8065762
+
+2020-04-01 16:49:44,529 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPd61c674177fbbd15ea66be61a8065762
+
+2020-04-01 16:49:56,387 INFO [capacityManagement] start correct usage
+
+2020-04-01 16:49:56,388 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 16:49:56,716 WARN clearConfigHistory start
+
+2020-04-01 16:50:02,564 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:50:02,564 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:50:32,068 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:50:32,068 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:51:01,572 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:51:01,572 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:51:31,078 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:51:31,078 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:52:00,581 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:52:00,581 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:52:40,103 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:52:40,103 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:52:40,301 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:52:40,302 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:53:09,806 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:53:09,806 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:53:30,771 INFO listen config id:consumer.propertiesDEFAULT_GROUP
+
+2020-04-01 16:53:30,771 INFO listen config id 2:consumer.propertiesDEFAULT_GROUP
+
+2020-04-01 16:53:30,775 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:53:30,775 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:53:30,980 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:53:30,980 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:54:00,483 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:54:00,483 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:54:29,989 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:54:29,990 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:54:59,501 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:54:59,501 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:55:40,234 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:55:40,235 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:55:40,434 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:55:40,434 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:56:09,938 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:56:09,938 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:56:39,442 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:56:39,442 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:57:08,952 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:57:08,952 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:57:38,456 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:57:38,456 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:07,960 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:07,960 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:29,417 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:29,417 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:29,615 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:29,616 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:59,121 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:58:59,121 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:59:28,625 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:59:28,625 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:59:56,388 INFO [capacityManagement] start correct usage
+
+2020-04-01 16:59:56,388 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 16:59:56,719 WARN clearConfigHistory start
+
+2020-04-01 16:59:58,129 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 16:59:58,129 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:00:27,633 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:00:27,633 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:00:57,137 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:00:57,137 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:01:26,649 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:01:26,649 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:01:56,153 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:01:56,153 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:02:32,958 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:02:32,958 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:02:33,157 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:02:33,157 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:05:21,690 INFO listen config id:consumer.propertiesDEFAULT_GROUP
+
+2020-04-01 17:05:21,690 INFO listen config id 2:consumer.propertiesDEFAULT_GROUP
+
+2020-04-01 17:05:21,705 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:05:21,705 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:05:21,906 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:05:21,906 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:14,528 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:14,528 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:14,726 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:14,726 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:44,234 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:44,235 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8240650415e28f15efa3cc09dd168766
+
+2020-04-01 17:06:47,973 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP
+
+2020-04-01 17:06:47,973 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP
+
+2020-04-01 17:09:56,389 INFO [capacityManagement] start correct usage
+
+2020-04-01 17:09:56,390 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 17:09:56,721 WARN clearConfigHistory start
+
+2020-04-01 17:16:32,260 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:16:32,261 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:16:32,459 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:16:32,459 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:17:01,964 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:17:01,964 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:17:31,473 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:17:31,474 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:18:00,980 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:18:00,980 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:18:30,487 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:18:30,487 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:18:59,999 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:19:00,000 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:19:29,504 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:19:29,504 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:19:56,390 INFO [capacityManagement] start correct usage
+
+2020-04-01 17:19:56,390 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 17:19:56,722 WARN clearConfigHistory start
+
+2020-04-01 17:19:59,009 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:19:59,009 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:20:28,512 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:20:28,512 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:20:58,018 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:20:58,018 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP3872c9ae3f427af0be0ead09d07ae2cf
+
+2020-04-01 17:21:08,818 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPc3b13d9854cc2b8646b0f765eb9d2b3c
+
+2020-04-01 17:21:08,818 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPc3b13d9854cc2b8646b0f765eb9d2b3c
+
+2020-04-01 17:21:34,576 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP0182f5f7cf0fd244b5adc5ede24e8a53
+
+2020-04-01 17:21:34,576 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP0182f5f7cf0fd244b5adc5ede24e8a53
+
+2020-04-01 17:22:04,080 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP0182f5f7cf0fd244b5adc5ede24e8a53
+
+2020-04-01 17:22:04,080 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP0182f5f7cf0fd244b5adc5ede24e8a53
+
+2020-04-01 17:22:17,646 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP6239c20b3dd90d43c9eeb89e9b0f81a5
+
+2020-04-01 17:22:17,646 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP6239c20b3dd90d43c9eeb89e9b0f81a5
+
+2020-04-01 17:22:35,310 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPd00d6ce4913f89cef899129d46cc89d8
+
+2020-04-01 17:22:35,310 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUPd00d6ce4913f89cef899129d46cc89d8
+
+2020-04-01 17:22:48,303 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:22:48,303 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:23:17,807 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:23:17,807 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:23:47,318 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:23:47,318 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:24:16,823 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:24:16,823 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP547a0c57d6e96ab4c1ab6a04fb6cedf3
+
+2020-04-01 17:24:42,724 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:24:42,724 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:25:12,231 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:25:12,231 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:25:41,735 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:25:41,735 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:11,239 INFO listen config id:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:11,239 INFO listen config id 2:consumer.propertiesDEFAULT_GROUPconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:29,282 INFO listen config id:consumer.yamlDEFAULT_GROUP0593fcaca962a2cb5dc2b021dbe47d8dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:29,282 INFO listen config id 2:consumer.yamlDEFAULT_GROUP0593fcaca962a2cb5dc2b021dbe47d8dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:29,480 INFO listen config id:consumer.yamlDEFAULT_GROUP0593fcaca962a2cb5dc2b021dbe47d8dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:29,480 INFO listen config id 2:consumer.yamlDEFAULT_GROUP0593fcaca962a2cb5dc2b021dbe47d8dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:58,985 INFO listen config id:consumer.yamlDEFAULT_GROUP0593fcaca962a2cb5dc2b021dbe47d8dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:26:58,985 INFO listen config id 2:consumer.yamlDEFAULT_GROUP0593fcaca962a2cb5dc2b021dbe47d8dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:27:10,902 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:27:10,902 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:27:40,406 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:27:40,406 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:28:09,915 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:28:09,915 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:28:39,423 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:28:39,423 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:29:08,928 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:29:08,928 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:29:38,432 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:29:38,433 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:29:56,390 INFO [capacityManagement] start correct usage
+
+2020-04-01 17:29:56,391 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 17:29:56,723 WARN clearConfigHistory start
+
+2020-04-01 17:30:07,940 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:30:07,940 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:30:39,058 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:30:39,059 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:30:39,256 INFO listen config id:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:30:39,256 INFO listen config id 2:consumer.yamlDEFAULT_GROUP99c06435269964def806bd0d434c0e21consumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:31:02,395 INFO listen config id:consumer.yamlDEFAULT_GROUP157741e3626f763b85331e456e63f21econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:31:02,395 INFO listen config id 2:consumer.yamlDEFAULT_GROUP157741e3626f763b85331e456e63f21econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:31:31,899 INFO listen config id:consumer.yamlDEFAULT_GROUP157741e3626f763b85331e456e63f21econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:31:31,900 INFO listen config id 2:consumer.yamlDEFAULT_GROUP157741e3626f763b85331e456e63f21econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:31:34,982 INFO listen config id:consumer.yamlDEFAULT_GROUP6199ee2edf99b5ff24ed45138130a34dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:31:34,982 INFO listen config id 2:consumer.yamlDEFAULT_GROUP6199ee2edf99b5ff24ed45138130a34dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:32:04,487 INFO listen config id:consumer.yamlDEFAULT_GROUP6199ee2edf99b5ff24ed45138130a34dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:32:04,487 INFO listen config id 2:consumer.yamlDEFAULT_GROUP6199ee2edf99b5ff24ed45138130a34dconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:32:09,787 INFO listen config id:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:32:09,787 INFO listen config id 2:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:32:39,291 INFO listen config id:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:32:39,291 INFO listen config id 2:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:33:08,794 INFO listen config id:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:33:08,795 INFO listen config id 2:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:33:38,298 INFO listen config id:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:33:38,298 INFO listen config id 2:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:34:07,801 INFO listen config id:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:34:07,801 INFO listen config id 2:consumer.yamlDEFAULT_GROUPc2b79aaf262e9ec04b20492ecb7e914fconsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:34:16,168 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:34:16,168 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:34:45,679 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:34:45,679 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:35:15,183 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:35:15,183 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:35:44,686 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:35:44,686 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:36:14,197 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:36:14,197 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:36:43,701 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:36:43,701 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:37:13,208 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:37:13,208 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:37:42,712 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:37:42,712 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:38:12,215 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:38:12,215 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:38:41,718 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:38:41,718 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:39:11,222 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:39:11,222 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:39:40,725 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:39:40,725 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:39:56,391 INFO [capacityManagement] start correct usage
+
+2020-04-01 17:39:56,391 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 17:39:56,724 WARN clearConfigHistory start
+
+2020-04-01 17:40:10,229 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:40:10,229 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:40:39,732 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:40:39,732 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:41:09,237 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:41:09,237 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:41:38,741 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:41:38,741 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:42:08,251 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:42:08,251 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:42:37,755 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:42:37,755 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:43:42,328 INFO Starting Nacos v1.2.0 on 5f95e5555a73 with PID 21 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2020-04-01 17:43:42,332 INFO The following profiles are active: standalone
+
+2020-04-01 17:43:44,887 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$229689ff] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:43:45,001 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:43:45,004 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@3cce5371' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:43:45,006 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$476b2cb1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:43:45,013 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:43:45,659 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-04-01 17:43:45,699 INFO Starting service [Tomcat]
+
+2020-04-01 17:43:45,700 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-04-01 17:43:45,713 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+
+2020-04-01 17:43:45,811 INFO Initializing Spring embedded WebApplicationContext
+
+2020-04-01 17:43:45,811 INFO Root WebApplicationContext: initialization completed in 3401 ms
+
+2020-04-01 17:43:48,647 INFO Reflections took 45 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2020-04-01 17:43:48,691 INFO Reflections took 5 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2020-04-01 17:43:48,702 INFO Reflections took 5 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2020-04-01 17:43:49,545 INFO Use Mysql as the driver
+
+2020-04-01 17:43:50,270 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-04-01 17:43:50,524 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-04-01 17:43:50,948 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-04-01 17:43:50,985 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5357c287, org.springframework.security.web.context.SecurityContextPersistenceFilter@a8c1f44, org.springframework.security.web.header.HeaderWriterFilter@f0e995e, org.springframework.security.web.csrf.CsrfFilter@4f2c9ba6, org.springframework.security.web.authentication.logout.LogoutFilter@78a287ed, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3c435123, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7a8fa663, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1623134f, org.springframework.security.web.session.SessionManagementFilter@73db4768, org.springframework.security.web.access.ExceptionTranslationFilter@53f48368]
+
+2020-04-01 17:43:51,183 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2020-04-01 17:43:51,238 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-04-01 17:43:51,412 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-04-01 17:43:51,441 INFO Started Nacos in 10.762 seconds (JVM running for 11.599)
+
+2020-04-01 17:43:51,442 INFO Nacos logs files: /home/nacos/logs/
+
+2020-04-01 17:43:51,442 INFO Nacos conf files: /home/nacos/conf/
+
+2020-04-01 17:43:51,443 INFO Nacos data files: /home/nacos/data/
+
+2020-04-01 17:43:51,443 INFO Nacos started successfully in stand alone mode.
+
+2020-04-01 17:43:51,679 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-04-01 17:43:51,679 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-04-01 17:43:51,697 INFO Completed initialization in 18 ms
+
+2020-04-01 17:43:52,520 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:43:52,522 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:44:22,035 INFO listen config id:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:44:22,035 INFO listen config id 2:consumer.yamlDEFAULT_GROUPab4abceb690bec23fda55a6f41ddf64econsumerDEFAULT_GROUP8461f1dee168f7d4241de7572af6bde8
+
+2020-04-01 17:46:46,920 INFO Starting Nacos v1.2.0 on 85825721ee90 with PID 21 (/home/nacos/target/nacos-server.jar started by root in /home/nacos)
+
+2020-04-01 17:46:46,925 INFO The following profiles are active: standalone
+
+2020-04-01 17:46:49,651 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$3c93896c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:46:49,763 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:46:49,766 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@17bffc17' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:46:49,781 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$61682c1e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:46:49,786 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-01 17:46:50,391 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-04-01 17:46:50,434 INFO Starting service [Tomcat]
+
+2020-04-01 17:46:50,434 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-04-01 17:46:50,447 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+
+2020-04-01 17:46:50,569 INFO Initializing Spring embedded WebApplicationContext
+
+2020-04-01 17:46:50,569 INFO Root WebApplicationContext: initialization completed in 3512 ms
+
+2020-04-01 17:46:54,365 INFO Reflections took 57 ms to scan 1 urls, producing 6 keys and 24 values 
+
+2020-04-01 17:46:54,432 INFO Reflections took 6 ms to scan 1 urls, producing 2 keys and 12 values 
+
+2020-04-01 17:46:54,452 INFO Reflections took 11 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2020-04-01 17:46:55,312 INFO Use Mysql as the driver
+
+2020-04-01 17:46:56,138 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-04-01 17:46:56,470 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-04-01 17:46:57,414 INFO Creating filter chain: Ant [pattern='/**'], []
+
+2020-04-01 17:46:57,480 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7bf9b098, org.springframework.security.web.context.SecurityContextPersistenceFilter@54361a9, org.springframework.security.web.header.HeaderWriterFilter@72f46e16, org.springframework.security.web.csrf.CsrfFilter@4a3e3e8b, org.springframework.security.web.authentication.logout.LogoutFilter@6e9319f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5217f3d0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2416a51, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@389adf1d, org.springframework.security.web.session.SessionManagementFilter@332a7fce, org.springframework.security.web.access.ExceptionTranslationFilter@71104a4]
+
+2020-04-01 17:46:57,697 INFO Exposing 16 endpoint(s) beneath base path '/actuator'
+
+2020-04-01 17:46:57,814 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-04-01 17:46:58,024 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-04-01 17:46:58,055 INFO Started Nacos in 13.203 seconds (JVM running for 14.085)
+
+2020-04-01 17:46:58,056 INFO Nacos logs files: /home/nacos/logs/
+
+2020-04-01 17:46:58,056 INFO Nacos conf files: /home/nacos/conf/
+
+2020-04-01 17:46:58,056 INFO Nacos data files: /home/nacos/data/
+
+2020-04-01 17:46:58,056 INFO Nacos started successfully in stand alone mode.
+
+2020-04-01 17:46:58,254 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-04-01 17:46:58,255 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-04-01 17:46:58,276 INFO Completed initialization in 21 ms
+
+2020-04-01 17:56:55,035 INFO [capacityManagement] start correct usage
+
+2020-04-01 17:56:55,082 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 17:56:55,303 WARN clearConfigHistory start
+
+2020-04-01 18:06:55,083 INFO [capacityManagement] start correct usage
+
+2020-04-01 18:06:55,083 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 18:06:55,326 WARN clearConfigHistory start
+
+2020-04-01 18:16:55,084 INFO [capacityManagement] start correct usage
+
+2020-04-01 18:16:55,085 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 18:16:55,328 WARN clearConfigHistory start
+
+2020-04-01 18:26:55,085 INFO [capacityManagement] start correct usage
+
+2020-04-01 18:26:55,086 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 18:26:55,330 WARN clearConfigHistory start
+
+2020-04-01 18:36:55,087 INFO [capacityManagement] start correct usage
+
+2020-04-01 18:36:55,089 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 18:36:55,334 WARN clearConfigHistory start
+
+2020-04-01 18:46:55,090 INFO [capacityManagement] start correct usage
+
+2020-04-01 18:46:55,092 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 18:46:55,336 WARN clearConfigHistory start
+
+2020-04-01 18:56:55,093 INFO [capacityManagement] start correct usage
+
+2020-04-01 18:56:55,097 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 18:56:55,339 WARN clearConfigHistory start
+
+2020-04-01 19:06:55,099 INFO [capacityManagement] start correct usage
+
+2020-04-01 19:06:55,101 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 19:06:55,342 WARN clearConfigHistory start
+
+2020-04-01 19:16:55,102 INFO [capacityManagement] start correct usage
+
+2020-04-01 19:16:55,111 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 19:16:55,344 WARN clearConfigHistory start
+
+2020-04-01 19:26:55,113 INFO [capacityManagement] start correct usage
+
+2020-04-01 19:26:55,115 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 19:26:55,346 WARN clearConfigHistory start
+
+2020-04-01 19:36:55,116 INFO [capacityManagement] start correct usage
+
+2020-04-01 19:36:55,120 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 19:36:55,347 WARN clearConfigHistory start
+
+2020-04-01 19:46:55,122 INFO [capacityManagement] start correct usage
+
+2020-04-01 19:46:55,124 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 19:46:55,348 WARN clearConfigHistory start
+
+2020-04-01 19:56:55,125 INFO [capacityManagement] start correct usage
+
+2020-04-01 19:56:55,128 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 19:56:55,351 WARN clearConfigHistory start
+
+2020-04-01 20:06:55,128 INFO [capacityManagement] start correct usage
+
+2020-04-01 20:06:55,131 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-01 20:06:55,352 WARN clearConfigHistory start
+

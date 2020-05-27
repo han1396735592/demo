@@ -1,0 +1,8 @@
+2020-04-01 16:56:17,193 WARN [dump-ignore] ignore to save cache file. groupKey=consumer+DEFAULT_GROUP, md5=8240650415e28f15efa3cc09dd168766, lastModifiedOld=1585731000392, lastModifiedNew=1585731377114
+
+2020-04-01 16:57:05,938 WARN [dump-ignore] ignore to save cache file. groupKey=consumer.yaml+DEFAULT_GROUP, md5=0593fcaca962a2cb5dc2b021dbe47d8d, lastModifiedOld=1585731098545, lastModifiedNew=1585731425911
+
+2020-04-01 17:43:49,504 INFO [dump-all-ok] consumer.yaml+DEFAULT_GROUP, 1585733653971, length=57, md5=ab4abceb690bec23fda55a6f41ddf64e
+
+2020-04-01 17:43:49,505 INFO [dump-all-ok] consumer+DEFAULT_GROUP, 1585733080532, length=13, md5=8461f1dee168f7d4241de7572af6bde8
+

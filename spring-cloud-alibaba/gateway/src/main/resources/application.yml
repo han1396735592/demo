@@ -1,0 +1,17 @@
+spring:
+  cloud:
+    gateway:
+      routes:
+        - id: producer
+          uri: lb://producer/
+          predicates:
+            - Path=/producer/**
+        - id: consumer
+          uri: lb://consumer/
+          predicates:
+            - Path=/consumer/**
+      discovery:
+        locator:
+          enabled: true
+
+

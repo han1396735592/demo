@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+/spring-cloud-alibaba/spring-cloud-alibaba.iml
+*.iml
+/spring-cloud-alibaba/gateway/target/

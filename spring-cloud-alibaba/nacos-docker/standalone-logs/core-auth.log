@@ -1,0 +1,232 @@
+2020-05-24 13:10:53,661 DEBUG auth start, request: POST /nacos/v1/ns/instance
+
+2020-05-24 13:10:53,803 DEBUG access denied, request: POST /nacos/v1/ns/instance, reason: unknown user!
+
+2020-05-24 13:10:58,634 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:10:58,635 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:03,651 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:03,652 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:08,665 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:08,666 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:13,693 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:13,694 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:18,714 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:18,721 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:23,745 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:23,746 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:28,763 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:28,766 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:33,798 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:33,801 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:38,815 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:38,819 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:43,835 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:43,838 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:48,850 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:48,852 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:53,863 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:53,866 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:11:58,896 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:11:58,903 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:03,928 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:03,933 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:08,950 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:08,953 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:13,968 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:13,976 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:19,001 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:19,004 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:24,018 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:24,021 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:29,032 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:29,037 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:34,053 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:34,068 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:39,088 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:39,093 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:44,113 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:44,118 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:49,137 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:49,142 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:54,158 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:54,161 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:12:59,171 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:12:59,174 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:04,183 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:04,186 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:09,201 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:09,211 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:14,238 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:14,244 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:19,264 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:19,268 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:24,282 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:24,285 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:29,307 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:29,316 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:34,351 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:34,353 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:39,362 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:39,364 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:13:44,377 DEBUG auth start, request: PUT /nacos/v1/ns/instance/beat
+
+2020-05-24 13:13:44,380 DEBUG access denied, request: PUT /nacos/v1/ns/instance/beat, reason: unknown user!
+
+2020-05-24 13:32:41,009 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:32:41,110 DEBUG access denied, request: GET /nacos/v1/cs/configs, reason: unknown user!
+
+2020-05-24 13:32:43,111 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:32:43,114 DEBUG auth permission: {"action":"r","resource":":*:config/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:32:51,864 DEBUG auth start, request: GET /nacos/v1/auth/roles
+
+2020-05-24 13:32:51,869 DEBUG auth permission: {"action":"r","resource":"console/roles"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:32:52,435 DEBUG auth start, request: GET /nacos/v1/auth/users
+
+2020-05-24 13:32:52,438 DEBUG auth permission: {"action":"r","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:01,073 DEBUG auth start, request: PUT /nacos/v1/auth/users
+
+2020-05-24 13:33:01,077 DEBUG auth permission: {"action":"w","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:01,221 DEBUG auth start, request: GET /nacos/v1/auth/users
+
+2020-05-24 13:33:01,222 DEBUG auth permission: {"action":"r","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:02,956 DEBUG auth start, request: GET /nacos/v1/auth/users
+
+2020-05-24 13:33:02,962 DEBUG auth permission: {"action":"r","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:04,200 DEBUG auth start, request: GET /nacos/v1/auth/users
+
+2020-05-24 13:33:04,213 DEBUG auth permission: {"action":"r","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:05,508 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:33:05,512 DEBUG auth permission: {"action":"r","resource":":*:config/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:08,055 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:33:08,061 DEBUG auth permission: {"action":"r","resource":":*:config/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:09,873 DEBUG auth start, request: GET /nacos/v1/ns/catalog/services
+
+2020-05-24 13:33:09,878 DEBUG auth permission: {"action":"r","resource":":*:naming/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:12,417 DEBUG auth start, request: GET /nacos/v1/auth/users
+
+2020-05-24 13:33:12,420 DEBUG auth permission: {"action":"r","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:13,207 DEBUG auth start, request: GET /nacos/v1/auth/roles
+
+2020-05-24 13:33:13,209 DEBUG auth permission: {"action":"r","resource":"console/roles"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:13,775 DEBUG auth start, request: GET /nacos/v1/auth/permissions
+
+2020-05-24 13:33:13,780 DEBUG auth permission: {"action":"r","resource":"console/permissions"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:17,743 DEBUG auth start, request: GET /nacos/v1/auth/users
+
+2020-05-24 13:33:17,747 DEBUG auth permission: {"action":"r","resource":"console/users"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:18,206 DEBUG auth start, request: GET /nacos/v1/auth/roles
+
+2020-05-24 13:33:18,208 DEBUG auth permission: {"action":"r","resource":"console/roles"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:18,815 DEBUG auth start, request: GET /nacos/v1/auth/roles
+
+2020-05-24 13:33:18,818 DEBUG auth permission: {"action":"r","resource":"console/roles"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:19,529 DEBUG auth start, request: GET /nacos/v1/auth/permissions
+
+2020-05-24 13:33:19,530 DEBUG auth permission: {"action":"r","resource":"console/permissions"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:21,492 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:33:21,495 DEBUG auth permission: {"action":"r","resource":":*:config/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:24,097 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:33:24,099 DEBUG auth permission: {"action":"r","resource":":DEFAULT_GROUP:config/consumer.yaml"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:24,124 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:33:24,126 DEBUG auth permission: {"action":"r","resource":":DEFAULT_GROUP:config/consumer.yaml"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:33:26,788 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:33:26,795 DEBUG auth permission: {"action":"r","resource":":*:config/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
+2020-05-24 13:40:11,882 DEBUG auth start, request: GET /nacos/v1/cs/configs
+
+2020-05-24 13:40:11,884 DEBUG auth permission: {"action":"r","resource":":*:config/*"}, user: {"globalAdmin":true,"token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJuYWNvcyIsImV4cCI6MTU5MDMxNjM2Mn0._ga1fAGVNikEBdWkflPP8d-zP1_dTDVfMQ9FDGqt-5E","userName":"nacos"}
+
