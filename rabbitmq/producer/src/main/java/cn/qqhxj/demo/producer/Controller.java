@@ -8,14 +8,13 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Controller {
 
-    private String change="testChange";
-
+    private final String routeKey="routeKey";
     @Autowired
     private RabbitTemplate rabbitTemplate;
 
     @GetMapping("/send")
     public String send(String msg) {
-        rabbitTemplate.convertAndSend("change", change,msg );
+        rabbitTemplate.convertAndSend("change", routeKey,msg );
         return "ok";
     }
 

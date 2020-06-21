@@ -13,19 +13,9 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 @Component
 @Slf4j
-//@RabbitListener(bindings = @QueueBinding(value = @Queue(value = "mq.queue", autoDelete = "true"),
-//        exchange = @Exchange(value = "mq.exchange", type = ExchangeTypes.FANOUT)))
 public class MqChangeHander {
-
-    @Autowired
-    private  AmqpAdmin amqpAdmin;
-    @Autowired
-    private  AmqpTemplate amqpTemplate;
-
-
     @RabbitListener(queues = "test")
     public void ok(@Payload String msg, Channel channel, @Headers Map<String, Object> headers) {
         log.info("receive mg msg = {}", msg);
-
     }
 }
