@@ -1,10 +1,10 @@
-package com.example.stompredis;
+package cn.qqhxj.example;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StompRedisApplicationTests {
+class DemoApplicationTests {
 
     @Test
     void contextLoads() {

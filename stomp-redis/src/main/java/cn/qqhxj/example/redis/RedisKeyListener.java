@@ -1,13 +1,12 @@
-package com.example.stompredis;
+package cn.qqhxj.example.redis;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.connection.Message;
 import org.springframework.data.redis.listener.KeyExpirationEventMessageListener;
 import org.springframework.data.redis.listener.RedisMessageListenerContainer;
-import org.springframework.stereotype.Component;
 
 @Slf4j
-@Component
+//@Component
 public class RedisKeyListener extends KeyExpirationEventMessageListener {
     public RedisKeyListener(RedisMessageListenerContainer listenerContainer) {
         super(listenerContainer);

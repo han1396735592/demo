@@ -1,56 +1,30 @@
-2020-05-24 13:10:19,339 INFO initializing Raft sub-system
+2020-06-21 15:38:43,353 INFO initializing Raft sub-system
 
-2020-05-24 13:10:19,340 INFO raft notifier started
+2020-06-21 15:38:43,354 INFO raft notifier started
 
-2020-05-24 13:10:19,341 INFO finish loading all datums, size: 0 cost 1 ms.
+2020-06-21 15:38:43,355 INFO finish loading all datums, size: 0 cost 1 ms.
 
-2020-05-24 13:10:19,344 INFO cache loaded, datum count: 0, current term: 0
+2020-06-21 15:38:43,357 INFO cache loaded, datum count: 0, current term: 0
 
-2020-05-24 13:10:19,344 INFO finish to load data from disk, cost: 4 ms.
+2020-06-21 15:38:43,357 INFO finish to load data from disk, cost: 3 ms.
 
-2020-05-24 13:10:19,204 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+2020-06-21 15:38:43,202 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
 
-2020-05-24 13:10:19,352 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+2020-06-21 15:38:43,384 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
 
-2020-05-24 13:10:19,368 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+2020-06-21 15:38:43,393 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
 
-2020-05-24 13:10:20,146 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+2020-06-21 15:38:44,303 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
 
-2020-05-24 13:10:20,156 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+2020-06-21 15:38:44,316 INFO add listener: com.alibaba.nacos.naming.domains.meta.
 
-2020-05-24 13:10:24,190 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2020-06-21 15:38:48,182 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
-2020-05-24 13:10:24,190 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+2020-06-21 15:38:48,183 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
 
-2020-05-24 13:10:24,192 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2020-06-21 15:38:48,183 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
-2020-05-24 13:10:27,195 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2020-06-21 15:38:49,891 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"85825721ee90:8848","leaderDueMs":16489,"state":"FOLLOWER","term":0,"voteFor":""}, term: 0
 
-2020-05-24 13:31:17,011 INFO initializing Raft sub-system
-
-2020-05-24 13:31:16,871 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
-
-2020-05-24 13:31:17,018 INFO finish loading all datums, size: 0 cost 0 ms.
-
-2020-05-24 13:31:17,019 INFO cache loaded, datum count: 0, current term: 0
-
-2020-05-24 13:31:17,019 INFO finish to load data from disk, cost: 2 ms.
-
-2020-05-24 13:31:17,020 INFO raft notifier started
-
-2020-05-24 13:31:17,029 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
-
-2020-05-24 13:31:17,040 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
-
-2020-05-24 13:31:17,790 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
-
-2020-05-24 13:31:17,809 INFO add listener: com.alibaba.nacos.naming.domains.meta.
-
-2020-05-24 13:31:21,867 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
-
-2020-05-24 13:31:21,868 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
-
-2020-05-24 13:31:21,868 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
-
-2020-05-24 13:31:24,879 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2020-06-21 15:38:51,187 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"85825721ee90","key":"85825721ee90:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
